@@ -8,6 +8,7 @@ In this project, the Diffie-Hellman key exchange protocol is applied keep the co
 ## Learning Outcomes
 - input and output, 
 - the [Diffie-Hellman protocol](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), 
+- [modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation),
 - a basic cipher to keep conversations private.
 
 ## Description
